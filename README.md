@@ -7,6 +7,7 @@ And the zap-client thread:
 https://www.unknowncheats.me/forum/apex-legends/628823-zap-client-legitbot-ragebot-glow-esp.html
 **Thanks for all the support!**
 
+# Core Info
 **Updated to Game Version v3.0.76.22 (Season 22) (06.08.24)**
 
 By **Gerosity**
