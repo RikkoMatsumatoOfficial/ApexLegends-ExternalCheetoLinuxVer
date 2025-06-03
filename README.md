@@ -1,4 +1,4 @@
-# zap-client [Apex External Cheat For Linux](DUE TO UPDATED EAC(EASYANTICHEAT), THIS GAME WILL BE NO LAUNCHED ANYMORE!!!
+# zap-client [Apex External Cheat For Linux](DUE TO UPDATED EAC(EASYANTICHEAT), THIS GAME WILL BE NO LAUNCHED ANYMORE ON LINUX!!!
 
 # Important Info
 Repo and cheat itself is no longer being updated/maintained by me due to focusing on next cheat. This is to prepare for said cheat release. You can find my next cheat on: 
